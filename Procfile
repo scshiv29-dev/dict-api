@@ -1,1 +1,1 @@
-uvicorn first:app --reload
+web: uvicorn first:app --reload
